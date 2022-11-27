@@ -28,8 +28,7 @@ body {
 
 textarea {
     height: 10vh;
-display: block;
-    margin-top: 5rem;
+    display: block;
     padding: .5rem;
     border-radius: 3px;
     background-color: beige;
